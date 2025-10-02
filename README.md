@@ -1,5 +1,10 @@
 # lab2web
 
+# Tampilan Web 
+<img width="1366" height="768" src="https://github.com/dnrprsty/lab02Web/blob/1f0e248a5906d0eeee629fbf873bcf50a9f1a457/TampilanWeb.png" />
+
+
+
 #  contoh kode html
 ```
 <!DOCTYPE html>
